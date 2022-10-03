@@ -4,3 +4,5 @@ The aim of this project is to understand the concepts of synchronization. This i
 1) Synchronize a pre-written code.
 2) Calculating the Mandelbrot set using threads.
 3) Solving a synchronization problem (Kindergarten).
+
+For more details read *os-lab-exer3.pdf*.
